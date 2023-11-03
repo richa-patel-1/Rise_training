@@ -28,7 +28,8 @@ public class AddServlet extends HttpServlet {
 //		req.setAttribute("k",k);
 //		RequestDispatcher rd = req.getRequestDispatcher("sq");
 //		rd.forward(req, res);
-		
+//      new java 
+
 		String s ="ABC";
 		
 		Cookie ck = new Cookie("name",s);
