@@ -36,5 +36,9 @@ public class AddServlet extends HttpServlet {
 		
 		res.sendRedirect("sq?k="+k);
 		
+//		System.out.println("Shyam Joshi");
+
+
+		
 	}
 }
