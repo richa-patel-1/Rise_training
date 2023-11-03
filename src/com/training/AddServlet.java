@@ -31,6 +31,7 @@ public class AddServlet extends HttpServlet {
 		
 		String s ="ABC";
 		String s ="ABC";
+		String s ="ABC";
 		
 		Cookie ck = new Cookie("name",s);
 		res.addCookie(ck);
