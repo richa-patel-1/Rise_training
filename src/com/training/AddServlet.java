@@ -20,7 +20,7 @@ public class AddServlet extends HttpServlet {
 		int j = Integer.parseInt(req.getParameter("num2"));
 		
 		int k = i +j;
-//		System.out.println("Result is "+k);
+		System.out.println("Result is  out"+k);
 		
 //		PrintWriter out = res.getWriter();
 //		out.println("Addition is "+k);
