@@ -30,6 +30,7 @@ public class AddServlet extends HttpServlet {
 //		rd.forward(req, res);
 		
 		String s ="ABC";
+		String s ="ABC";
 		
 		Cookie ck = new Cookie("name",s);
 		res.addCookie(ck);
